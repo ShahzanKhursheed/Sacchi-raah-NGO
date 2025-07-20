@@ -1,0 +1,1 @@
+This is the website of Sacchiraah NGO which is made using HTML,CSS and JS. In this website there are lot more things to add so it is not the final webiste this the third year students website we,ll be building this more higher . After the compeletion of this project we'll be building this more better by react.
